@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name = 'ParseNames',
+    name = 'NameParser',
     version = '0.1',
     url = 'https://github.com/aligoren/NameParser',
     download_url = 'https://github.com/aligoren/NameParser/archive/master.zip',

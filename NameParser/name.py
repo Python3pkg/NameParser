@@ -23,8 +23,9 @@ class NameParser:
         return name
 
 
+"""
 nr = NameParser()
 
 print(nr.getName('oguz ali bircan'))
-
+"""
 
