@@ -5,4 +5,3 @@ __repo__ = 'https://github.com/aligoren/NameParser'
 __license__ = 'Apache v2.0 License'
 
 from .name import NameParser
-from .name import getName
