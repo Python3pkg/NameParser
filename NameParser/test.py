@@ -1,5 +1,5 @@
-from name import NameParser
+from .name import NameParser
 
 np = NameParser()
 
-print(np.getName('Benjamin Franklin C-Note'))
+print((np.getName('Benjamin Franklin C-Note')))
